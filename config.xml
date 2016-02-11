@@ -4,7 +4,7 @@
     id          = "com.webscrew.food"
     versionCode = "100"
     version     = "1.0.0" >
-  <preference name="phonegap-version" value="5.2.0" /> 
+  <preference name="phonegap-version" value="3.5.0" /> 
   <name>Food Review</name>
   <description>Description</description>
   <author href="http://webscrew.com" email="alankwok@yahoo.com">webscrew.com</author>
